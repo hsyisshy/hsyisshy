@@ -1,4 +1,4 @@
-<center>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There!!;This+is+ShanYu)](https://git.io/typing-svg)</center>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=435&lines=Hi+There!!;This+is+ShanYu)](https://git.io/typing-svg)
 
 ## Hi there
 Hello, everyone. My name is Shan-Yu Hsiao, currently a sophomore at National Central University, majoring in Social Sciences and Management Information System. 
