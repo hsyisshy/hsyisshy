@@ -20,7 +20,6 @@
 
 Hi, I'm **Shan-Yu Hsiao (蕭善彧)** —  
 A Taiwanese university student interested in **digital humanities, low-code tools, data science**, and **technology for social good**.  
-I enjoy blending technical skills with human-centered thinking, and I've worked on projects ranging from web apps and LINE Bots to aging care and data visualizations.
 
 ---
 
